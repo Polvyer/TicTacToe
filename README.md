@@ -1,4 +1,4 @@
-                                                  TicTacToe
+                                                 TicTacToe
 
 TicTacToe is a JavaFX single-player game where a player can play against the
 game server in a simple game of TicTacToe. On the server side, game logs are
